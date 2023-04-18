@@ -1,4 +1,18 @@
 /**
+ * EDITED BY FLIXMYSWITCH
+ * 
+ * ENDER 5 PLUS
+ * 390 X 390 BUILD PLATE
+ * BONDTECH EXTRUDER
+ * BLT PROBE
+ * BTT 35-E3-V3 SCREEN
+ * STANDARD CREALITY 8 BIT BOARD AS SUPPLIED WITH PRINTER
+ * WIPE BUCKET AT FRONT RIGHT
+ * 
+ * 
+ * 
+ * 
+ * 
  * Marlin 3D Printer Firmware
  * Copyright (c) 2020 MarlinFirmware [https://github.com/MarlinFirmware/Marlin]
  *
